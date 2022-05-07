@@ -4,4 +4,9 @@ sadfklasdf
 dfljalsdfkj
 jdalsfjj
 lkdjfaksjdfkj
+<<<<<<< HEAD
 dfdfdf
+=======
+hctstrcycvyydtr
+rggt
+>>>>>>> d285028a7bd0f4882568c709655d655a48e5486e
